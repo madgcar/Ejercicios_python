@@ -13,7 +13,7 @@ numpy==1.23.2
 pandas==1.4.3
 plotly==5.10.0
 protobuf==3.20.1
-pyarrow==9.0.0
+pyarrow==14.0.1
 pydeck==0.7.1
 Pympler==1.0.1
 pytz==2022.2.1
