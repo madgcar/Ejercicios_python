@@ -12,7 +12,7 @@ matplotlib==3.5.3
 numpy==1.23.2
 pandas==1.4.3
 plotly==5.10.0
-protobuf==3.20.1
+protobuf==3.20.2
 pyarrow==9.0.0
 pydeck==0.7.1
 Pympler==1.0.1
